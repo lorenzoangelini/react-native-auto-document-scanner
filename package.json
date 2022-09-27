@@ -1,6 +1,6 @@
 {
-  "name": "react-native-auto-document-scanner",
-  "version": "0.0.2",
+  "name": "react-native-auto-document-scanner-new",
+  "version": "0.0.1",
   "description": "Scan documents, automatic border detection, automatic crop, image filters",
   "main": "index.js",
   "files": [
@@ -31,14 +31,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adrianowerpel/react-native-auto-document-scanner.git"
+    "url": "git+https://github.com/lorenzoangelini/react-native-auto-document-scanner.git"
   },
-  "author": "Jake Humphrey (https://github.com/adrianowerpel)",
+  "author": "Lorenzo Angelini (https://github.com/lorenzoangelini)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/adrianowerpel/react-native-auto-document-scanner/issues"
+    "url": "https://github.com/lorenzoangelini/react-native-auto-document-scanner/issues"
   },
-  "homepage": "https://github.com/adrianowerpel/react-native-auto-document-scanner#readme",
+  "homepage": "https://github.com/lorenzoangelini/react-native-auto-document-scanner#readme",
   "devDependencies": {
     "@babel/core": "^7.4.3",
     "@babel/plugin-proposal-class-properties": "^7.4.0",
